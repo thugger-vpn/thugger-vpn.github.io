@@ -1,0 +1,3 @@
+# Запасной адрес (зеркало) сайта ThuggerVPN. Основной адрес: https://thuggervpn.github.io
+User-agent: *
+Disallow: /
