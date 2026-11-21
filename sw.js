@@ -1,0 +1,10 @@
+// ThuggerVPN: офлайн-копия главных страниц. Страницы: сначала сеть, без сети из кэша. Файлы: из кэша.
+var V='tvpn-202611211836',PAGES=["/", "/check/", "/podklyuchenie/", "/status/", "/en/", "/en/check/", "/en/podklyuchenie/", "/en/status/", "/blog/belye-spiski-chto-eto/", "/blog/kak-vybrat-vpn-2026/", "/blog/ne-rabotaet-vpn-na-mobilnom/", "/blog/telegram-ne-podklyuchaetsya/", "/blog/vpn-i-bankovskie-prilozheniya/", "/blog/vpn-podklyuchen-no-net-interneta/", "/en/blog/belye-spiski-chto-eto/", "/en/blog/does-whatsapp-work-in-russia/", "/en/blog/kak-vybrat-vpn-2026/", "/en/blog/ne-rabotaet-vpn-na-mobilnom/", "/en/blog/telegram-ne-podklyuchaetsya/", "/en/blog/travel-russia-internet-vpn/", "/en/blog/vpn-i-bankovskie-prilozheniya/", "/en/blog/vpn-podklyuchen-no-net-interneta/"],ASSETS=["/favicon.svg", "/assets/app/icon-192.png", "/assets/fonts/manrope-cyrillic-wght-normal.woff2", "/assets/fonts/manrope-latin-wght-normal.woff2"];
+self.addEventListener('install',function(e){e.waitUntil(caches.open(V).then(function(c){return c.addAll(PAGES.concat(ASSETS))}).then(function(){return self.skipWaiting()}))});
+self.addEventListener('activate',function(e){e.waitUntil(caches.keys().then(function(ks){return Promise.all(ks.filter(function(k){return k!==V}).map(function(k){return caches.delete(k)}))}).then(function(){return self.clients.claim()}))});
+self.addEventListener('fetch',function(e){var r=e.request,u=new URL(r.url);
+ if(r.method!=='GET'||u.origin!==location.origin)return;
+ if(r.mode==='navigate'){e.respondWith(fetch(r).then(function(res){var cp=res.clone();caches.open(V).then(function(c){c.put(r,cp)});return res})
+  .catch(function(){return caches.match(r,{ignoreSearch:true}).then(function(m){return m||caches.match(u.pathname.indexOf('/en/')===0?'/en/':'/')})}));return;}
+ if(/\.(png|svg|woff2|ico|webp|jpg)$/.test(u.pathname)){e.respondWith(caches.match(r).then(function(m){return m||fetch(r).then(function(res){var cp=res.clone();caches.open(V).then(function(c){c.put(r,cp)});return res})}));}
+});

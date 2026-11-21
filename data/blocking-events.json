@@ -1,0 +1,193 @@
+{
+ "source": "https://thuggervpn.github.io/index-blokirovok/",
+ "updated": "2026-11-21",
+ "events": [
+  {
+   "date": "2026-11-21",
+   "region": "Удмуртия, Иркутская, Псковская, Тюменская и Новосибирская области, Красноярский край, Хакасия",
+   "operators": [
+    "all"
+   ],
+   "type": "outage",
+   "title": "Отключения и ограничения скорости мобильного интернета из-за угрозы БПЛА",
+   "source": "Метарейтинг",
+   "url": "https://cybersport.metaratings.ru/articles/gde-segodnya-19-iyunya-2025-goda-otklyuchili-mobilnyi-internet-v-rossii-aktualnaya-informaciya/"
+  },
+  {
+   "date": "2026-11-20",
+   "region": "Санкт-Петербург, Ленинградская область",
+   "operators": [
+    "all"
+   ],
+   "type": "slow",
+   "title": "Утром после ночного сбоя жалобы снова выросли: около 4,9 тысячи за сутки, у части пропадал и Wi-Fi",
+   "source": "Форпост Северо-Запад (по данным Downdetector)",
+   "url": "https://forpost-sz.ru/a/2026-11-20/peterburzhcy-vnov-pozhalovalis-na-sboi-mobilnogo-interneta"
+  },
+  {
+   "date": "2026-11-20",
+   "region": "Россия (больше всего жалоб: Иваново, Новосибирск, Челябинск)",
+   "operators": [
+    "all"
+   ],
+   "type": "service",
+   "title": "Сбой Telegram: с 7:15 не отправлялись сообщения, не грузились медиа и звонки",
+   "source": "Метарейтинг",
+   "url": "https://cybersport.metaratings.ru/articles/chto-proishodit-s-telegram-segodnya/"
+  },
+  {
+   "date": "2026-11-20",
+   "region": "Санкт-Петербург",
+   "operators": [
+    "all"
+   ],
+   "type": "whitelist",
+   "title": "Ночной сбой мобильного интернета: сайты не открывались, у части жителей работали только белые списки",
+   "source": "Телеканал «Санкт-Петербург»",
+   "url": "https://tvspb.ru/news/2026/11/20/v-noch-na-20-noyabrya-v-peterburge-proizoshel-sboj-mobilnogo-interneta"
+  },
+  {
+   "date": "2026-11-19",
+   "region": "Архангельск, Липецк",
+   "operators": [
+    "megafon"
+   ],
+   "type": "slow",
+   "title": "Жалобы на общий сбой мобильного интернета МегаФона",
+   "source": "Метарейтинг",
+   "url": "https://cybersport.metaratings.ru/articles/chto-s-mobilnym-internetom-v-rossii/"
+  },
+  {
+   "date": "2026-11-19",
+   "region": "Смоленская и Вологодская области",
+   "operators": [
+    "beeline"
+   ],
+   "type": "slow",
+   "title": "Жалобы на плохую работу мобильного интернета Билайна",
+   "source": "Метарейтинг",
+   "url": "https://cybersport.metaratings.ru/articles/chto-s-mobilnym-internetom-v-rossii/"
+  },
+  {
+   "date": "2026-11-19",
+   "region": "Татарстан, Ульяновская область",
+   "operators": [
+    "t2"
+   ],
+   "type": "slow",
+   "title": "Т2: жалобы на неработающий мобильный интернет, проблемы с личным кабинетом и приложением",
+   "source": "Метарейтинг",
+   "url": "https://cybersport.metaratings.ru/articles/chto-s-mobilnym-internetom-v-rossii/"
+  },
+  {
+   "date": "2026-11-16",
+   "region": "Пермь",
+   "operators": [
+    "all"
+   ],
+   "type": "whitelist",
+   "title": "Пропадал мобильный интернет, работали только белые списки",
+   "source": "Techora",
+   "url": "https://techora.ru/news/v-permi-propal-mobilnyy-internet-soobshchayut-2026-11-16"
+  },
+  {
+   "date": "2026-11-16",
+   "region": "Новосибирская область",
+   "operators": [
+    "all"
+   ],
+   "type": "slow",
+   "title": "Перебои с загрузкой страниц, недоступны отдельные ресурсы",
+   "source": "Techora",
+   "url": "https://techora.ru/news/v-permi-propal-mobilnyy-internet-soobshchayut-2026-11-16"
+  },
+  {
+   "date": "2026-11-12",
+   "region": "Вся Россия",
+   "operators": [
+    "all"
+   ],
+   "type": "policy",
+   "title": "Белый список мобильного интернета расширен примерно до 900 ресурсов (данные Минцифры)",
+   "source": "Techora со ссылкой на Минцифры",
+   "url": "https://techora.ru/news/putin-svyazal-sboi-mobilnogo-interneta-v-2026-11-16"
+  },
+  {
+   "date": "2026-10-31",
+   "region": "Более 30 регионов, включая Москву, Петербург, Новосибирск, Екатеринбург, Казань",
+   "operators": [
+    "all"
+   ],
+   "type": "whitelist",
+   "title": "Сбои мобильного интернета, при ограничениях работал только белый список",
+   "source": "News.ru",
+   "url": "https://news.ru/society/pochemu-ne-rabotaet-mobilnyj-internet-segodnya-31-oktyabrya-prichiny-sboi-v-rossii"
+  },
+  {
+   "date": "2026-10-31",
+   "region": "Вся Россия",
+   "operators": [
+    "all"
+   ],
+   "type": "service",
+   "title": "Перебои YouTube: сотни жалоб за сутки",
+   "source": "CyberMeta",
+   "url": "https://cybersport.metaratings.ru/articles/chto-proishodit-s-youtube-segodnya/"
+  },
+  {
+   "date": "2026-10-30",
+   "region": "Москва, Петербург, Новосибирск, Казань и другие регионы",
+   "operators": [
+    "all"
+   ],
+   "type": "whitelist",
+   "title": "Массовые сбои мобильного интернета, при тревоге работали только сервисы из белого списка",
+   "source": "News.ru",
+   "url": "https://news.ru/society/pochemu-ne-rabotaet-mobilnyj-internet-segodnya-30-oktyabrya-prichiny-sboi-v-rossii"
+  },
+  {
+   "date": "2026-10-30",
+   "region": "Самарская область",
+   "operators": [
+    "all"
+   ],
+   "type": "slow",
+   "title": "Замедление мобильного интернета с 5 утра",
+   "source": "КП Самара",
+   "url": "https://www.samara.kp.ru/online/news/7248347/"
+  },
+  {
+   "date": "2026-10-30",
+   "region": "Калининградская область",
+   "operators": [
+    "all"
+   ],
+   "type": "outage",
+   "title": "Отключение электричества и перебои мобильного интернета",
+   "source": "my.ua",
+   "url": "https://my.ua/news/cluster/2026-10-31-bez-sveta-i-mobilnogo-interneta-v-rossii-tselaia-oblast-pogruzilas-v-blekaut"
+  },
+  {
+   "date": "2026-10-29",
+   "region": "Москва, центр (внутри ТТК)",
+   "operators": [
+    "all"
+   ],
+   "type": "slow",
+   "title": "Мобильный интернет замедлялся примерно в 17 раз (27-29 октября)",
+   "source": "SecurityLab",
+   "url": "https://www.securitylab.ru/news/579315.php"
+  },
+  {
+   "date": "2026-10-29",
+   "region": "Ряд регионов",
+   "operators": [
+    "all"
+   ],
+   "type": "outage",
+   "title": "Сбои связи и мобильного интернета",
+   "source": "Hi-Tech Mail",
+   "url": "https://hi-tech.mail.ru/news/145610-sboi-interneta-v-rossii/"
+  }
+ ]
+}
