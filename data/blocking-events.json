@@ -1,7 +1,75 @@
 {
  "source": "https://thuggervpn.github.io/index-blokirovok/",
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "events": [
+  {
+   "date": "2026-11-22",
+   "region": "Архангельская, Липецкая, Смоленская, Вологодская, Ульяновская области, Татарстан",
+   "operators": [
+    "megafon",
+    "beeline",
+    "t2"
+   ],
+   "type": "slow",
+   "title": "Жалобы на мобильный интернет у МегаФона, Билайна и Т2 в шести регионах",
+   "source": "Метарейтинг",
+   "url": "https://cybersport.metaratings.ru/articles/chto-s-mobilnym-internetom-v-rossii/"
+  },
+  {
+   "date": "2026-11-21",
+   "region": "Вся Россия",
+   "operators": [
+    "all"
+   ],
+   "type": "service",
+   "title": "Перебои YouTube вечером: не открывался сайт, сбоило приложение и воспроизведение",
+   "source": "Метарейтинг",
+   "url": "https://cybersport.metaratings.ru/articles/chto-proishodit-s-youtube-segodnya/"
+  },
+  {
+   "date": "2026-11-21",
+   "region": "Пермский край, Санкт-Петербург",
+   "operators": [
+    "mts"
+   ],
+   "type": "slow",
+   "title": "МТС: около 300 жалоб за сутки на пропавший мобильный интернет, SMS и звонки",
+   "source": "Hi-Tech Mail",
+   "url": "https://hi-tech.mail.ru/news/145491-chto-segodnya-s-mts/"
+  },
+  {
+   "date": "2026-11-21",
+   "region": "Кировская, Владимирская, Самарская области",
+   "operators": [
+    "beeline"
+   ],
+   "type": "slow",
+   "title": "Билайн: почти 500 жалоб за сутки на мобильный интернет, звонки и SMS",
+   "source": "Hi-Tech Mail",
+   "url": "https://hi-tech.mail.ru/news/145605-chto-segodnya-s-bilajn/"
+  },
+  {
+   "date": "2026-11-21",
+   "region": "Санкт-Петербург, Ленинградская область",
+   "operators": [
+    "all"
+   ],
+   "type": "outage",
+   "title": "Мобильный интернет отключали из-за угрозы беспилотников, жалобы шли также из Москвы и десятков регионов",
+   "source": "News.ru",
+   "url": "https://news.ru/society/pochemu-ne-rabotaet-mobilnyj-internet-21-noyabrya-prichiny-sboi-v-rossii"
+  },
+  {
+   "date": "2026-11-21",
+   "region": "Санкт-Петербург",
+   "operators": [
+    "all"
+   ],
+   "type": "whitelist",
+   "title": "Утром в Петербурге открывались только сайты и приложения из белого списка",
+   "source": "Форпост Северо-Запад",
+   "url": "https://forpost-sz.ru/a/2026-11-21/peterburzhcy-pozhalovalis-na-sboj-mobilnogo-interneta-utrom-21-noyabrya"
+  },
   {
    "date": "2026-11-21",
    "region": "Удмуртия, Иркутская, Псковская, Тюменская и Новосибирская области, Красноярский край, Хакасия",
