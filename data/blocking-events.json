@@ -1,7 +1,51 @@
 {
  "source": "https://thuggervpn.github.io/index-blokirovok/",
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "events": [
+  {
+   "date": "2026-11-23",
+   "region": "Новосибирская область",
+   "operators": [
+    "all"
+   ],
+   "type": "slow",
+   "title": "Около 800 жалоб за сутки: не открывались сайты и приложения",
+   "source": "Sib.fm",
+   "url": "https://sib.fm/news/2026/11/23/pochemu-v-novosibirskoj-oblasti-ne-rabotaet-internet-23-noyabrya"
+  },
+  {
+   "date": "2026-11-23",
+   "region": "Челябинская область",
+   "operators": [
+    "all"
+   ],
+   "type": "outage",
+   "title": "Власти предупредили о перебоях связи и мобильного интернета из-за беспилотной опасности",
+   "source": "АиФ Челябинск",
+   "url": "https://chel.aif.ru/society/yuzhnouralcev-preduprezhdayut-o-pereboyah-so-svyazyu-i-internetom-23-noyabrya"
+  },
+  {
+   "date": "2026-11-22",
+   "region": "Пермский край, Челябинская и Свердловская области, ХМАО, Курганская область",
+   "operators": [
+    "t2"
+   ],
+   "type": "slow",
+   "title": "Т2: жалобы на пропавший 4G, мобильную связь и интернет",
+   "source": "Info24",
+   "url": "https://info24.ru/news/chto-s-t2-segodnya-22-noyabrya-ne-rabotaet-internet-net-svyazi-chto-delat.html"
+  },
+  {
+   "date": "2026-11-22",
+   "region": "Москва, Санкт-Петербург, Новосибирская, Свердловская, Челябинская, Нижегородская, Оренбургская, Ростовская области, Татарстан, Краснодарский край",
+   "operators": [
+    "all"
+   ],
+   "type": "outage",
+   "title": "Сбои мобильного интернета в десятках регионов на фоне беспилотной опасности",
+   "source": "News.ru",
+   "url": "https://news.ru/society/pochemu-ne-rabotaet-mobilnyj-internet-22-noyabrya-prichiny-sboi-v-rossii"
+  },
   {
    "date": "2026-11-22",
    "region": "Архангельская, Липецкая, Смоленская, Вологодская, Ульяновская области, Татарстан",

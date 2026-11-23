@@ -13,6 +13,8 @@
 - [Не работает VPN на Т2 (Tele2)](https://thuggervpn.github.io/operator/t2/)
 
 ## Статьи
+- [VPN на iPhone не работает: почему не подключается и что делать](https://thuggervpn.github.io/blog/vpn-na-iphone-ne-rabotaet/): VPN на iPhone не включается, сразу отключается или подключён, но ничего не грузит. Причины и проверка по шагам: настройки iOS, профиль, приложение, сеть.
+- [Индекс блокировок: итоги недели 16-22 ноября 2026](https://thuggervpn.github.io/blog/indeks-blokirovok-16-22-noyabrya/): Что было с мобильным интернетом 16-22 ноября: ночные белые списки в Петербурге, отключения из-за беспилотной опасности и жалобы на всех операторов.
 - [Не грузит YouTube с VPN: почему крутится загрузка и что делать](https://thuggervpn.github.io/blog/youtube-ne-rabotaet-s-vpn/): VPN включён, а YouTube не открывается, видео висит на загрузке или идёт в 144p. Разбираем частые причины и проверяем всё по шагам.
 - [Telegram не подключается: почему висит «Соединение» и что делать](https://thuggervpn.github.io/blog/telegram-ne-podklyuchaetsya/): Почему Telegram пишет «Соединение...» или «Подключение...», не грузит фото и видео, и что проверить по шагам: сеть, VPN, прокси, кэш.
 - [VPN и банковские приложения: почему Сбер и маркетплейсы не открываются](https://thuggervpn.github.io/blog/vpn-i-bankovskie-prilozheniya/): Почему банки, маркетплейсы и приложения операторов ругаются на включённый VPN и как пользоваться ими без лишних переключений.
@@ -28,6 +30,8 @@
 - [5-second internet check](https://thuggervpn.github.io/en/check/)
 - [Blocking status in Russia today](https://thuggervpn.github.io/en/status/)
 - [Russia internet blocking index](https://thuggervpn.github.io/en/index-blokirovok/)
+- [VPN not working on iPhone in Russia: why it won't connect and fixes](https://thuggervpn.github.io/en/blog/vpn-na-iphone-ne-rabotaet/): VPN on your iPhone won't turn on, keeps disconnecting or shows connected but loads nothing in Russia. Causes and a step-by-step checklist for iOS.
+- [Russia internet blocking index: week of 16-22 November 2026](https://thuggervpn.github.io/en/blog/indeks-blokirovok-16-22-noyabrya/): Mobile internet in Russia on 16-22 November: night-time whitelists in St Petersburg, shutdowns during drone alerts and complaints about all four carriers.
 - [YouTube not working in Russia even with a VPN: causes and fixes](https://thuggervpn.github.io/en/blog/youtube-ne-rabotaet-s-vpn/): VPN is on but YouTube in Russia won't load, videos keep buffering or stay at 144p. The common causes and a step-by-step checklist.
 - [Telegram not connecting in Russia: why it's stuck on "Connecting" and fixes](https://thuggervpn.github.io/en/blog/telegram-ne-podklyuchaetsya/): Why Telegram in Russia hangs on "Connecting...", won't load photos or videos, and a step-by-step checklist: network, VPN, proxy, cache.
 - [Does WhatsApp work in Russia in 2026? What tourists and expats should know](https://thuggervpn.github.io/en/blog/does-whatsapp-work-in-russia/): WhatsApp is blocked in Russia since February 2026. What still works, why calls fail, what changes with roaming, Wi-Fi or a VPN, and how to stay reachable.
