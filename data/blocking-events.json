@@ -1,7 +1,29 @@
 {
  "source": "https://thuggervpn.github.io/index-blokirovok/",
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "events": [
+  {
+   "date": "2026-11-23",
+   "region": "Москва, Санкт-Петербург",
+   "operators": [
+    "all"
+   ],
+   "type": "slow",
+   "title": "Утром перестал работать мобильный и домашний интернет, у части не открывались даже сайты из белого списка",
+   "source": "Meduza",
+   "url": "https://meduza.io/news/2026/11/23/zhiteli-moskvy-i-peterburga-pozhalovalis-chto-u-nih-perestal-rabotat-internet-kak-mobilnyy-tak-i-domashniy"
+  },
+  {
+   "date": "2026-11-23",
+   "region": "Москва и Подмосковье, Санкт-Петербург, Новосибирская, Самарская, Свердловская области, Краснодарский край",
+   "operators": [
+    "beeline"
+   ],
+   "type": "slow",
+   "title": "Больше всего жалоб на интернет пришлось на Билайн и Ростелеком",
+   "source": "Men Today (по данным Downdetector)",
+   "url": "https://www.mentoday.ru/technics/news/23-11-2026/massovye-sboi-interneta-23-noyabrya-gde-v-rossii-propala-svyaz-i-ne-rabotayut-servisy/"
+  },
   {
    "date": "2026-11-23",
    "region": "Новосибирская область",
