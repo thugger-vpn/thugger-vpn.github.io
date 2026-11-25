@@ -14,6 +14,7 @@
 
 ## Статьи
 - [VPN с белыми списками: какой впн работает при белых списках в 2026](https://thuggervpn.github.io/blog/vpn-s-belymi-spiskami/): Почему обычный VPN не работает при белых списках на мобильном интернете, какой впн с белыми списками работает, как проверить его до оплаты и сколько это стоит.
+- [VPN на компьютер: как настроить на Windows и Mac за 2 минуты](https://thuggervpn.github.io/blog/vpn-na-kompyuter/): VPN на ПК и ноутбук: как установить впн на компьютер с Windows или macOS, какое приложение выбрать, куда вставить подписку и что делать, если VPN не работает на ПК.
 - [Не работает мобильный интернет: почему и что делать сегодня](https://thuggervpn.github.io/blog/ne-rabotaet-mobilnyj-internet/): Почему не работает мобильный интернет на телефоне: отключения и белые списки, сбой у оператора, настройки. Как за 5 секунд понять причину и что делать по шагам.
 - [Incy VPN: как добавить подписку и настроить (инси впн) в 2026](https://thuggervpn.github.io/blog/incy-vpn-kak-nastroit/): Как настроить Incy (инси впн) на iPhone, Android, компьютере и телевизоре: добавить подписку, разрешить VPN, что делать, если Incy не подключается или пропал из App Store.
 - [Happ VPN: как добавить подписку и ключ, настройка за 2 минуты](https://thuggervpn.github.io/blog/happ-vpn-kak-nastroit/): Как настроить Happ (хапп впн): где взять ключ или подписку, как добавить её из буфера, что делать, если Happ не подключается или пропал из App Store.
@@ -35,6 +36,9 @@
 - [5-second internet check](https://thuggervpn.github.io/en/check/)
 - [Blocking status in Russia today](https://thuggervpn.github.io/en/status/)
 - [Russia internet blocking index](https://thuggervpn.github.io/en/index-blokirovok/)
+- [How to set up a VPN on a PC or Mac for Russia: 2-minute guide](https://thuggervpn.github.io/en/blog/vpn-na-kompyuter/): VPN for Windows and macOS that works in Russia: which app to install, where to paste your subscription link, and what to do if the VPN won't work on your computer.
+- [Mobile internet not working in Russia today: why and what to do](https://thuggervpn.github.io/en/blog/ne-rabotaet-mobilnyj-internet/): Why mobile data stops working in Russia: regional shutdowns, whitelist mode, carrier outages or phone settings. How to find the cause in 5 seconds and fix it.
+- [Foreign SIM no internet in Russia: the 24-hour block and how to lift it](https://thuggervpn.github.io/en/blog/foreign-sim-24-hour-block-russia/): Landed in Russia and your SIM has no mobile data or SMS? That's the 24-hour block for foreign SIM cards. Why it exists, how to lift it early and what else to prepare.
 - [VPN keeps disconnecting on Android in Russia: causes and fixes](https://thuggervpn.github.io/en/blog/vpn-na-android-otklyuchaetsya/): Your Android VPN drops when the screen turns off, when switching from Wi-Fi to mobile data or after a few minutes. Why it happens and settings to fix it.
 - [VPN not working on iPhone in Russia: why it won't connect and fixes](https://thuggervpn.github.io/en/blog/vpn-na-iphone-ne-rabotaet/): VPN on your iPhone won't turn on, keeps disconnecting or shows connected but loads nothing in Russia. Causes and a step-by-step checklist for iOS.
 - [Russia internet blocking index: week of 16-22 November 2026](https://thuggervpn.github.io/en/blog/indeks-blokirovok-16-22-noyabrya/): Mobile internet in Russia on 16-22 November: night-time whitelists in St Petersburg, shutdowns during drone alerts and complaints about all four carriers.

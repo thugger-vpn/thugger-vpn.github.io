@@ -1,7 +1,40 @@
 {
  "source": "https://thuggervpn.github.io/index-blokirovok/",
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "events": [
+  {
+   "date": "2026-11-25",
+   "region": "Новосибирская область",
+   "operators": [
+    "all"
+   ],
+   "type": "slow",
+   "title": "Не работает интернет в Новосибирской области: около 1,3 тысячи жалоб за сутки",
+   "source": "Сиб.фм",
+   "url": "https://sib.fm/news/2026/11/25/pochemu-v-novosibirskoj-oblasti-ne-rabotaet-internet-25-noyabrya"
+  },
+  {
+   "date": "2026-11-24",
+   "region": "Пензенская область",
+   "operators": [
+    "all"
+   ],
+   "type": "outage",
+   "title": "В Пензе вечером ограничили мобильный интернет при беспилотной опасности",
+   "source": "Столица58",
+   "url": "https://stolica58.ru/news/obcshestvo/v-penze-obyavili-opasnost-bpla-i-ogranichili-mobilnyj-internet"
+  },
+  {
+   "date": "2026-11-24",
+   "region": "Москва и Подмосковье, Санкт-Петербург, Ленинградская, Свердловская, Новосибирская, Самарская области, Краснодарский и Красноярский края",
+   "operators": [
+    "all"
+   ],
+   "type": "slow",
+   "title": "Не работает мобильный интернет 24 ноября: почти 10 тысяч жалоб по Москве и области",
+   "source": "Men Today",
+   "url": "https://www.mentoday.ru/technics/news/24-11-2026/internet-tormozit-svyaz-propadaet-chto-proishodit-s-setyu-v-rossii-24-noyabrya/"
+  },
   {
    "date": "2026-11-23",
    "region": "Москва, Санкт-Петербург",
