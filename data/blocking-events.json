@@ -1,7 +1,62 @@
 {
  "source": "https://thuggervpn.github.io/index-blokirovok/",
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "events": [
+  {
+   "date": "2026-11-26",
+   "region": "Новосибирская область",
+   "operators": [
+    "all"
+   ],
+   "type": "slow",
+   "title": "Не работает интернет в Новосибирске: около 1,5 тысячи жалоб за сутки",
+   "source": "Сиб.фм",
+   "url": "https://sib.fm/news/2026/11/26/pochemu-v-novosibirskoj-oblasti-ne-rabotaet-internet-26-noyabrya"
+  },
+  {
+   "date": "2026-11-26",
+   "region": "Ульяновская область, Тульская область, Алтайский край",
+   "operators": [
+    "mts"
+   ],
+   "type": "slow",
+   "title": "Не работает мобильный интернет МТС: жалобы из Ульяновской и Тульской областей и Алтайского края",
+   "source": "Метарейтинг",
+   "url": "https://cybersport.metaratings.ru/articles/chto-proiskhodit-s-mts-v-rossii-segodnya/"
+  },
+  {
+   "date": "2026-11-25",
+   "region": "Татарстан",
+   "operators": [
+    "all"
+   ],
+   "type": "outage",
+   "title": "В Казани пропал мобильный интернет в Азино: работали только MAX и Яндекс",
+   "source": "АиФ Казань",
+   "url": "https://kazan.aif.ru/society/25-noyabrya-zhiteli-kazani-zhaluyutsya-na-problemy-s-mobilnym-internetom"
+  },
+  {
+   "date": "2026-11-25",
+   "region": "Самарская область",
+   "operators": [
+    "all"
+   ],
+   "type": "outage",
+   "title": "В Самарской области ночью ограничили мобильный интернет при беспилотной опасности",
+   "source": "Info24",
+   "url": "https://info24.ru/news/pochemu-ne-rabotaet-mobilnyj-internet-segodnya-25-noyabrya-gde-sboi-chto-delat.html"
+  },
+  {
+   "date": "2026-11-25",
+   "region": "Москва и Подмосковье, Санкт-Петербург и Ленинградская область, Новосибирская, Свердловская, Самарская, Тюменская, Калининградская области, Краснодарский край",
+   "operators": [
+    "beeline"
+   ],
+   "type": "slow",
+   "title": "Не работает интернет 25 ноября: больше 9 тысяч жалоб по Москве и области",
+   "source": "Men Today (по данным Downdetector)",
+   "url": "https://mentoday.ru/technics/news/25-11-2026/upali-steam-deepseek-i-saity-provaiderov-chto-proishodit-s-internetom-v-rossii-25-noyabrya"
+  },
   {
    "date": "2026-11-25",
    "region": "Новосибирская область",
