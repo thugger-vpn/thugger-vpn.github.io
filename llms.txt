@@ -13,6 +13,7 @@
 - [Не работает VPN на Т2 (Tele2)](https://thuggervpn.github.io/operator/t2/)
 
 ## Статьи
+- [Пробный VPN: где взять пробный период и как проверить до оплаты](https://thuggervpn.github.io/blog/probnyj-vpn/): Пробный VPN и впн с пробным периодом: где взять бесплатные дни без карты, что проверить за 3 дня на мобильном интернете и как не попасть на автосписание.
 - [Не работает VPN сегодня: почему перестал работать и что делать](https://thuggervpn.github.io/blog/ne-rabotaet-vpn-segodnya/): Не работает VPN сегодня или впн перестал подключаться: как за минуту понять, сбой это, белые списки или блокировка сервера, и что делать в каждом случае.
 - [Настройки Incy VPN: стабильный мобильный интернет и низкий пинг](https://thuggervpn.github.io/blog/nastrojki-incy/): Лучшие настройки Incy (инси впн) для мобильного интернета на скриншотах: протокол, маршрутизация «РФ напрямую», DNS, пинг. Пошагово для iPhone, чтобы банки работали с VPN.
 - [VPN с белыми списками: какой впн работает при белых списках в 2026](https://thuggervpn.github.io/blog/vpn-s-belymi-spiskami/): Почему обычный VPN не работает при белых списках на мобильном интернете, какой впн с белыми списками работает, как проверить его до оплаты и сколько это стоит.
@@ -38,10 +39,12 @@
 - [5-second internet check](https://thuggervpn.github.io/en/check/)
 - [Blocking status in Russia today](https://thuggervpn.github.io/en/status/)
 - [Russia internet blocking index](https://thuggervpn.github.io/en/index-blokirovok/)
+- [VPN free trial for Russia: where to get one and what to test first](https://thuggervpn.github.io/en/blog/probnyj-vpn/): Looking for a VPN free trial that works in Russia? Where to get trial days without a card, what to test in 3 days on mobile data and how to avoid auto-renewal.
 - [VPN not working in Russia today: why it stopped and what to do](https://thuggervpn.github.io/en/blog/ne-rabotaet-vpn-segodnya/): VPN stopped working in Russia today? Find out in a minute whether it's a mobile shutdown, whitelist mode or a blocked server, and what to do in each case.
 - [VPN with whitelists in Russia: which VPN works in whitelist mode in 2026](https://thuggervpn.github.io/en/blog/vpn-s-belymi-spiskami/): Why a regular VPN stops working when Russian carriers switch on whitelist mode, which VPNs still work, how to test one before paying and what it costs.
 - [How to set up a VPN on a PC or Mac for Russia: 2-minute guide](https://thuggervpn.github.io/en/blog/vpn-na-kompyuter/): VPN for Windows and macOS that works in Russia: which app to install, where to paste your subscription link, and what to do if the VPN won't work on your computer.
 - [Mobile internet not working in Russia today: why and what to do](https://thuggervpn.github.io/en/blog/ne-rabotaet-mobilnyj-internet/): Why mobile data stops working in Russia: regional shutdowns, whitelist mode, carrier outages or phone settings. How to find the cause in 5 seconds and fix it.
+- [Happ VPN setup: how to add a subscription or key in 2 minutes](https://thuggervpn.github.io/en/blog/happ-vpn-kak-nastroit/): How to set up the Happ VPN app: where to get a key or subscription link, how to add it from the clipboard, and what to do if Happ won't connect or is missing from the App Store.
 - [Foreign SIM no internet in Russia: the 24-hour block and how to lift it](https://thuggervpn.github.io/en/blog/foreign-sim-24-hour-block-russia/): Landed in Russia and your SIM has no mobile data or SMS? That's the 24-hour block for foreign SIM cards. Why it exists, how to lift it early and what else to prepare.
 - [VPN keeps disconnecting on Android in Russia: causes and fixes](https://thuggervpn.github.io/en/blog/vpn-na-android-otklyuchaetsya/): Your Android VPN drops when the screen turns off, when switching from Wi-Fi to mobile data or after a few minutes. Why it happens and settings to fix it.
 - [VPN not working on iPhone in Russia: why it won't connect and fixes](https://thuggervpn.github.io/en/blog/vpn-na-iphone-ne-rabotaet/): VPN on your iPhone won't turn on, keeps disconnecting or shows connected but loads nothing in Russia. Causes and a step-by-step checklist for iOS.
