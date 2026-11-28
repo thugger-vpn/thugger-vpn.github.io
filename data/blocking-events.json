@@ -1,7 +1,75 @@
 {
  "source": "https://thuggervpn.github.io/index-blokirovok/",
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "events": [
+  {
+   "date": "2026-11-28",
+   "region": "Пензенская область",
+   "operators": [
+    "all"
+   ],
+   "type": "outage",
+   "title": "В Пензенской области ночью 28 ноября ограничили мобильный интернет при беспилотной опасности",
+   "source": "PToday",
+   "url": "https://www.ptoday.ru/17000-ataka-bpla-na-penzenskuju-oblast-28-nojabrja-2026-goda-dannyh-o-sbityh-net-ajeroport-penzy-vozobnovil-rabotu.html"
+  },
+  {
+   "date": "2026-11-27",
+   "region": "Архангельская область",
+   "operators": [
+    "beeline",
+    "megafon",
+    "t2"
+   ],
+   "type": "whitelist",
+   "title": "Не работает мобильный интернет в Архангельске 27 ноября: открывался только ВКонтакте",
+   "source": "29.ру",
+   "url": "https://29.ru/text/gorod/2026/11/27/76793869/"
+  },
+  {
+   "date": "2026-11-27",
+   "region": "Нижегородская область",
+   "operators": [
+    "all"
+   ],
+   "type": "outage",
+   "title": "Не работает домашний интернет в Нижнем Новгороде 27 ноября: больше 2 тысяч жалоб",
+   "source": "Нижегородская правда",
+   "url": "https://pravda-nn.ru/news/massovyj-sboj-v-rabote-interneta-proizoshel-v-nizhegorodskoj-oblasti/"
+  },
+  {
+   "date": "2026-11-27",
+   "region": "Москва и Подмосковье, Санкт-Петербург, Ленинградская область, Новосибирская область, Красноярский край, Иркутская область, Тюменская область, Псковская область, Самарская область, Свердловская область, Удмуртия, Хакасия",
+   "operators": [
+    "all"
+   ],
+   "type": "whitelist",
+   "title": "Не работает мобильный интернет 27 ноября: сбои в Москве, Петербурге, Новосибирске и ещё 10 регионах",
+   "source": "Info24",
+   "url": "https://info24.ru/news/pochemu-ne-rabotaet-mobilnyj-internet-segodnya-27-noyabrya-gde-sboi-chto-delat.html"
+  },
+  {
+   "date": "2026-11-27",
+   "region": "Санкт-Петербург, Москва, Новгородская область",
+   "operators": [
+    "all"
+   ],
+   "type": "service",
+   "title": "Не работает Telegram 27 ноября: зависает обновление, перестали работать прокси",
+   "source": "Info24",
+   "url": "https://info24.ru/news/pochemu-telegram-ne-rabotaet-segodnya-27-noyabrya-proksi-poslednie-novosti-gde-sboj.html"
+  },
+  {
+   "date": "2026-11-27",
+   "region": "Москва и Подмосковье, Санкт-Петербург",
+   "operators": [
+    "all"
+   ],
+   "type": "service",
+   "title": "Telegram 27 ноября у части пользователей заработал без VPN",
+   "source": "Пруфы",
+   "url": "https://prufy.ru/news/rossiya_i_mir/195648-telegram_nachal_rabotat_bez_vpn/"
+  },
   {
    "date": "2026-11-27",
    "region": "Санкт-Петербург, Ленинградская область",
