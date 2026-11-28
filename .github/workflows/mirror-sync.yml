@@ -29,6 +29,8 @@ jobs:
             --exclude README.md --exclude 'google*.html' --exclude robots.txt --exclude .gitignore --exclude __pycache__ \
             _main/ ./
           rm -rf _main
+          # Зеркало не должно попадать в поиск: каждой странице noindex (робот видит метку, т.к. robots.txt обход разрешает)
+          find . -name '*.html' -not -path './.git/*' -print0 | xargs -0 sed -i 's#<meta charset="utf-8">#<meta charset="utf-8"><meta name="robots" content="noindex,nofollow">#'
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"

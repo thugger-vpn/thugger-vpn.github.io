@@ -1,3 +1,4 @@
 # Запасной адрес (зеркало) сайта ThuggerVPN. Основной адрес: https://thuggervpn.github.io
+# Обход разрешён, чтобы поисковики увидели noindex на страницах и убрали зеркало из выдачи.
 User-agent: *
-Disallow: /
+Allow: /
