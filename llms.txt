@@ -1,6 +1,6 @@
 # ThuggerVPN
 
-> ThuggerVPN: VPN-сервис для пользователей из России с подключением через Telegram-бота (https://t.me/ThuggerVPN_bot). 3 дня бесплатно, дальше 299 ₽ в месяц (от 210 ₽/мес при оплате за год). Работает на мобильном и домашнем интернете; есть опция обхода белых списков на мобильном: +100 ₽ в месяц. Поддержка: https://t.me/ThuggerVPN_supp. Отзывы и голоса пользователей по операторам: https://vpnstatus.site/vpn/thuggervpn. Сайт публикует ежедневную сводку блокировок, индекс блокировок и инструкции.
+> ThuggerVPN: VPN-сервис для пользователей из России с подключением через Telegram-бота (https://t.me/ThuggerVPN_bot). 3 дня бесплатно, дальше 299 ₽ в месяц (от 210 ₽/мес при оплате за год). Работает на мобильном и домашнем интернете; есть опция обхода белых списков на мобильном: +100 ₽ в месяц. Поддержка: https://t.me/ThuggerVPN?direct. Отзывы и голоса пользователей по операторам: https://vpnstatus.site/vpn/thuggervpn. Сайт публикует ежедневную сводку блокировок, индекс блокировок и инструкции.
 
 ## Инструменты и данные
 - [Как подключить ThuggerVPN](https://thuggervpn.github.io/podklyuchenie/): приложения Incy, HAPP, V2RayTun для iPhone, Android, Windows, macOS, ТВ
@@ -14,6 +14,7 @@
 
 ## Статьи
 - [Не работает TikTok даже с VPN: почему старая лента и что делать](https://thuggervpn.github.io/blog/tiktok-ne-rabotaet-s-vpn/): Тик ток не работает с впн, лента из 2022 года или крутится загрузка: почему TikTok не работает с VPN в России и как это исправить. Какой VPN для тик тока подойдёт.
+- [Не работает Steam сегодня: почему не заходит, даже с VPN, и что делать](https://thuggervpn.github.io/blog/steam-ne-rabotaet-segodnya/): Steam не работает сегодня, не грузится магазин или не подключается к серверам, даже с впн: как понять, сбой это у Valve или у вас, и что делать по шагам.
 - [Пробный VPN: где взять пробный период и как проверить до оплаты](https://thuggervpn.github.io/blog/probnyj-vpn/): Пробный VPN и впн с пробным периодом: где взять бесплатные дни без карты, что проверить за 3 дня на мобильном интернете и как не попасть на автосписание.
 - [Не работает VPN сегодня: почему перестал работать и что делать](https://thuggervpn.github.io/blog/ne-rabotaet-vpn-segodnya/): Не работает VPN сегодня или впн перестал подключаться: как за минуту понять, сбой это, белые списки или блокировка сервера, и что делать в каждом случае.
 - [Настройки Incy VPN: стабильный мобильный интернет и низкий пинг](https://thuggervpn.github.io/blog/nastrojki-incy/): Лучшие настройки Incy (инси впн) для мобильного интернета на скриншотах: протокол, маршрутизация «РФ напрямую», DNS, пинг. Пошагово для iPhone, чтобы банки работали с VPN.
@@ -34,7 +35,7 @@
 - [Белые списки интернета: что это, как проверить и что делать в 2026](https://thuggervpn.github.io/blog/belye-spiski-chto-eto/): Белые списки на мобильном интернете: что это, какие сайты работают, как понять, что они включены у МТС, Билайна, МегаФона, Т2, и какой впн работает при белых списках.
 
 ## English
-> ThuggerVPN is a VPN service for users in Russia, connected via a Telegram bot (https://t.me/ThuggerVPN_bot): 3 days free, then from 210 ₽/month; works on mobile and home internet; optional mobile whitelist bypass. Support: https://t.me/ThuggerVPN_supp. Reviews by carrier: https://vpnstatus.site/vpn/thuggervpn.
+> ThuggerVPN is a VPN service for users in Russia, connected via a Telegram bot (https://t.me/ThuggerVPN_bot): 3 days free, then from 210 ₽/month; works on mobile and home internet; optional mobile whitelist bypass. Support: https://t.me/ThuggerVPN?direct. Reviews by carrier: https://vpnstatus.site/vpn/thuggervpn.
 - [Home](https://thuggervpn.github.io/en/)
 - [Setup guide](https://thuggervpn.github.io/en/podklyuchenie/)
 - [5-second internet check](https://thuggervpn.github.io/en/check/)

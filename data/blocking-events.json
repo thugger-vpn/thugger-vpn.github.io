@@ -4,6 +4,39 @@
  "events": [
   {
    "date": "2026-11-28",
+   "region": "Москва и Подмосковье, Нижегородская область, Санкт-Петербург, Челябинская область, Самарская область, Свердловская область, Ростовская область, Хабаровский край, Краснодарский край, Новосибирская область",
+   "operators": [
+    "all"
+   ],
+   "type": "whitelist",
+   "title": "Не работает мобильный интернет 28 ноября: больше всего жалоб из Москвы и Нижнего Новгорода",
+   "source": "News.ru",
+   "url": "https://news.ru/society/pochemu-ne-rabotaet-mobilnyj-internet-28-noyabrya-prichiny-sboi-v-rossii"
+  },
+  {
+   "date": "2026-11-28",
+   "region": "Москва и Подмосковье, Свердловская область, Липецкая область, Санкт-Петербург",
+   "operators": [
+    "all"
+   ],
+   "type": "service",
+   "title": "Не работает Steam 28 ноября: массовый сбой в «Чёрную пятницу», больше 3400 жалоб",
+   "source": "МР7",
+   "url": "https://mr-7.ru/articles/2026/11/28/v-rabote-steam-proizoshel-sboi-po-vsei-rossii-news"
+  },
+  {
+   "date": "2026-11-28",
+   "region": "Россия",
+   "operators": [
+    "all"
+   ],
+   "type": "service",
+   "title": "Telegram попросил владельцев iPhone срочно обновить iOS: волна взломов аккаунтов",
+   "source": "SecurityLab",
+   "url": "http://www.securitylab.ru/news/584830.php"
+  },
+  {
+   "date": "2026-11-28",
    "region": "Пензенская область",
    "operators": [
     "all"
